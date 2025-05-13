@@ -29,9 +29,9 @@ Login to the Widows 10 VM using RDP and download the osTicket-Installation-Files
 ![mstsc_qelfIqUhOH](https://github.com/user-attachments/assets/1e03f384-c8dd-4a0d-9741-0b960036388b)
 
 4. Install Required Components
-Install Visual C++ Redistributable: (VC_redist.x86.exe.) and MySQL 5.5.62: (mysql-5.5.62-win32.msi.).
-![mstsc_Gcyg8IR516](https://github.com/user-attachments/assets/cbd33a89-4ef6-4011-8be2-3c49e0a8d85f)
+Install Visual C++ Redistributable: (VC_redist.x86.exe.) and MySQL 5.5.62:(mysql-5.5.62-win32.msi.).
 
+![mstsc_Gcyg8IR516](https://github.com/user-attachments/assets/cbd33a89-4ef6-4011-8be2-3c49e0a8d85f)
 ![mstsc_TICjEeQyAi](https://github.com/user-attachments/assets/d42b5d51-e002-4e72-b87c-adf4c5de0929)
 
 5. Configure IIS for osTicket
