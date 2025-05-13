@@ -71,6 +71,6 @@ Download and Install HeidiSQL. Then create a user, password, and database ("osTi
 ![mstsc_0ynmrZI9rd](https://github.com/user-attachments/assets/87e9bba6-5b06-44c4-9537-ccb4e2c19413)
 
 ### 9. Finish osTicket installation
-Continue Setting up osTicket in the browser.
+Continue setting up osTicket in the browser.
 ![mstsc_HaLfTQdB14](https://github.com/user-attachments/assets/b43b7af5-e598-47d8-8966-a7c2ee35290a)
 
