@@ -48,11 +48,11 @@ Unzip osTicket-v1.15.8.zip and copy the upload folder to: C:\inetpub\wwwroot and
 
 ![mstsc_irFm8AsUHS](https://github.com/user-attachments/assets/d68daf39-9a7a-48bb-a5f2-5ce40a99a402)
 
-### 6. Reload IIS, then go to Sites, select Default Web Site, choose osTicket, and click "Browse :80" on the right panel to launch the site. 
+Reload IIS, then go to Sites, select Default Web Site, choose osTicket, and click "Browse :80" on the right panel to launch the site. 
 
 ![mstsc_dcGTjyCnrL](https://github.com/user-attachments/assets/ee84ce95-268e-411a-84f5-9d40562f56a3)
 
-### 7. Enable Extensions in IIS
+### 6. Enable Extensions in IIS
 Enable some extensions that are not are not enabled.
 
 ![mstsc_NYk3Q1JEPA](https://github.com/user-attachments/assets/3f182974-3382-48af-88b5-1bda9ee17a28)
