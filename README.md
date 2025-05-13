@@ -42,7 +42,7 @@ Open IIS Manager as Administrator, register PHP at C:\PHP\php-cgi.exe using PHP 
 Unzip osTicket-v1.15.8.zip and copy the upload folder to: C:\inetpub\wwwroot and rename upload to osTicket: C:\inetpub\wwwroot\osTicket
 ![mstsc_irFm8AsUHS](https://github.com/user-attachments/assets/d68daf39-9a7a-48bb-a5f2-5ce40a99a402)
 
-Reload IIS, then go to Sites, select Default Web Site, choose osTicket, and click "Browse :80" on the right panel to launch the site.   
+7. Reload IIS, then go to Sites, select Default Web Site, choose osTicket, and click "Browse :80" on the right panel to launch the site.   
 ![mstsc_dcGTjyCnrL](https://github.com/user-attachments/assets/ee84ce95-268e-411a-84f5-9d40562f56a3)
 
 8. Enable Extensions in IIS
