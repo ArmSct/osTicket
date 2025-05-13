@@ -59,3 +59,18 @@ Enable some extensions that are not are not enabled.
 ![mstsc_HOiXPMAzlA](https://github.com/user-attachments/assets/ba3d2e5b-99e2-4618-a4a3-cb5b92448f03)
 ![mstsc_2XnqNe8izS](https://github.com/user-attachments/assets/8f13605c-5cab-4267-bd61-4434991d77e5)
 
+### 7. Rename Configuration File and Assign Permissions
+
+![mstsc_VXyUMpBfT2](https://github.com/user-attachments/assets/63f60780-a38d-4dc9-924b-d6c8d9413e94)
+![mstsc_f6NGKGbFIu](https://github.com/user-attachments/assets/d3b6afe8-4daa-4899-98e8-b9f494cfbf1e)
+
+
+### 8. Download and Install HeidiSQL
+Download and Install HeidiSQL. Then create a user, password, and database ("osTicket").
+![mstsc_duu6IdN256](https://github.com/user-attachments/assets/c3f253df-3c1c-4efb-8f7c-8391a9c9905a)
+![mstsc_0ynmrZI9rd](https://github.com/user-attachments/assets/87e9bba6-5b06-44c4-9537-ccb4e2c19413)
+
+### 9. Finish osTicket installation
+Continue Setting up osTicket in the browser.
+![mstsc_HaLfTQdB14](https://github.com/user-attachments/assets/b43b7af5-e598-47d8-8966-a7c2ee35290a)
+
