@@ -16,7 +16,7 @@ In this project, we create a Windows 10 Virtual Machine in Microsoft Azure and i
 
 ## Actions and Observations
 
-### 1. VM Deployment and Access
+### VM Deployment and Access
  Create an Azure Windows 10 VM.
  
 ![BicXUQ75Pn](https://github.com/user-attachments/assets/57cbd880-7393-4576-974d-5de02f85b706)
@@ -26,24 +26,24 @@ Login to the Widows 10 VM using RDP and download the osTicket-Installation-Files
 ![mstsc_ZpBRv50EQ2](https://github.com/user-attachments/assets/4530a63a-6489-4d3a-a98c-7e2bfe70af44)
 
 
-### 2. Install/Enable IIS in Windows with CGI and install PHP manager
+### Install/Enable IIS in Windows with CGI and install PHP manager
 
 ![mstsc_0BhqVQInyI](https://github.com/user-attachments/assets/c14ed0e6-e15d-45b7-87b8-c0d125ac68cb)
 ![mstsc_qelfIqUhOH](https://github.com/user-attachments/assets/1e03f384-c8dd-4a0d-9741-0b960036388b)
 
-### 3. Install Required Components
+### Install Required Components
 
 Install Visual C++ Redistributable: (VC_redist.x86.exe.) and MySQL 5.5.62:(mysql-5.5.62-win32.msi.).
 
 ![mstsc_Gcyg8IR516](https://github.com/user-attachments/assets/cbd33a89-4ef6-4011-8be2-3c49e0a8d85f)
 ![mstsc_TICjEeQyAi](https://github.com/user-attachments/assets/d42b5d51-e002-4e72-b87c-adf4c5de0929)
 
-### 4. Configure IIS for osTicket
+### Configure IIS for osTicket
 Open IIS Manager as Administrator, register PHP at C:\PHP\php-cgi.exe using PHP Manager, then reload IIS to apply changes.
 
 ![mstsc_zReCGRQkGD](https://github.com/user-attachments/assets/b75ddb57-7927-45ae-94ea-df582333329c)
 
-### 5. Install osTicket
+### Install osTicket
 Unzip osTicket-v1.15.8.zip and copy the upload folder to: C:\inetpub\wwwroot and rename upload to osTicket: C:\inetpub\wwwroot\osTicket
 
 ![mstsc_irFm8AsUHS](https://github.com/user-attachments/assets/d68daf39-9a7a-48bb-a5f2-5ce40a99a402)
@@ -52,25 +52,25 @@ Reload IIS, then go to Sites, select Default Web Site, choose osTicket, and clic
 
 ![mstsc_dcGTjyCnrL](https://github.com/user-attachments/assets/ee84ce95-268e-411a-84f5-9d40562f56a3)
 
-### 6. Enable Extensions in IIS
+### Enable Extensions in IIS
 Enable some extensions that are not are not enabled.
 
 ![mstsc_NYk3Q1JEPA](https://github.com/user-attachments/assets/3f182974-3382-48af-88b5-1bda9ee17a28)
 ![mstsc_HOiXPMAzlA](https://github.com/user-attachments/assets/ba3d2e5b-99e2-4618-a4a3-cb5b92448f03)
 ![mstsc_2XnqNe8izS](https://github.com/user-attachments/assets/8f13605c-5cab-4267-bd61-4434991d77e5)
 
-### 7. Rename Configuration File and Assign Permissions
+### Rename Configuration File and Assign Permissions
 
 ![mstsc_VXyUMpBfT2](https://github.com/user-attachments/assets/63f60780-a38d-4dc9-924b-d6c8d9413e94)
 ![mstsc_f6NGKGbFIu](https://github.com/user-attachments/assets/d3b6afe8-4daa-4899-98e8-b9f494cfbf1e)
 
 
-### 8. Download and Install HeidiSQL
+### Download and Install HeidiSQL
 Download and Install HeidiSQL. Then create a user, password, and database ("osTicket").
 ![mstsc_duu6IdN256](https://github.com/user-attachments/assets/c3f253df-3c1c-4efb-8f7c-8391a9c9905a)
 ![mstsc_0ynmrZI9rd](https://github.com/user-attachments/assets/87e9bba6-5b06-44c4-9537-ccb4e2c19413)
 
-### 9. Finish osTicket installation
+### Finish osTicket installation
 Continue setting up osTicket in the browser.
 ![mstsc_HaLfTQdB14](https://github.com/user-attachments/assets/b43b7af5-e598-47d8-8966-a7c2ee35290a)
 
