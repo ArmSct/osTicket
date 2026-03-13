@@ -16,7 +16,7 @@ In this project, I create a Windows 10 Virtual Machine in Microsoft Azure and in
 
 ## Actions and Observations
 
-### VM Deployment and Access
+### VM Deployment and Access 
  Create an Azure Windows 10 VM.
  
 ![BicXUQ75Pn](https://github.com/user-attachments/assets/57cbd880-7393-4576-974d-5de02f85b706)
