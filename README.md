@@ -2,7 +2,7 @@
 ![68747470733a2f2f692e696d6775722e636f6d2f7278463149686a2e706e67](https://github.com/user-attachments/assets/7fa9f6dd-dbb0-45db-b07b-2031041045fb)
 
 # osTicket Setup on Azure Windows VM
-In this project, I create a Windows 10 Virtual Machine in Microsoft Azure and install the open-source support ticket system, osTicket v1.15.8. This includes setting up IIS, PHP, MySQL, and configuring required dependencies to get osTicket running locally.
+In this project, I create a Windows 10 Virtual Machine in Microsoft Azure and install the open-source support ticket system, osTicket v1.15.8. This includes setting up IIS, PHP, MySQL, and configuring required dependencies to get osTicket running locally. 
 
 ## Technologies Utilized
 - Microsoft Azure (Virtual Machine deployment)
