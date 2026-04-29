@@ -5,7 +5,7 @@
 In this project, I create a Windows 10 Virtual Machine in Microsoft Azure and install the open-source support ticket system, osTicket v1.15.8. This includes setting up IIS, PHP, MySQL, and configuring required dependencies to get osTicket running locally. 
 
 ## Technologies Utilized
-- Microsoft Azure (Virtual Machine deployment)
+- Microsoft Azure (Virtual Machine deployment) 
 - Windows 10 (Guest OS)
 - Remote Desktop Protocol (RDP) (VM access)
 - Internet Information Services (IIS) (Web server)
