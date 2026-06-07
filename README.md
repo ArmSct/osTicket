@@ -12,7 +12,7 @@ In this project, I create a Windows 10 Virtual Machine in Microsoft Azure and in
 - PHP 7.3.8
 - MySQL 5.5.62
 - osTicket v1.15.8
-- HeidiSQL (MySQL client)
+- HeidiSQL (MySQL client) 
 
 ## Actions and Observations
 
